@@ -1,0 +1,10 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body div {
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: xx-large;
+}
